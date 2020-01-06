@@ -1,19 +1,19 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Florian Vincent",
+    "role": "Back-end Developer",
+    "linkedinId":"florian-v",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/florian-v/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/kyx42",
           "className":"fa fa-github"
         },
         {
@@ -23,47 +23,47 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "address":"France",
+    "website":"https://dashboard.heroku.com/apps/powerful-lake-18932/resources",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"California State University San Marcos",
+        "specialization":"IT TECHNOLOGIES",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2019",
+        "Achievements":"Spring and summer semester of 2019"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"EPITECH",
+        "specialization":"European Institue of Computer Scince",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2020",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"EURONEXT",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"Dec",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"High-speed trading platform - OPTIQ"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"DROUOT",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"-",
+        "YearOfLeaving":"-",
+        "Achievements":"Improvement of several Web Application"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Technical Skills",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"GO"
       },
       {
-        "skillname":"CSS"
+        "skillname":"C++"
       },
       {
         "skillname":"Reactjs"
